@@ -1,0 +1,14 @@
+{
+  "folders": [
+    { "path": "." },
+    { "path": "src/AutoVenda.MinimalApi" },
+    { "path": "src/AutoVenda.WebApi" },
+    { "path": "src/AutoVenda.gRPC" },
+    { "path": "src/AutoVenda.SignalR" },
+    { "path": "src/AutoVenda.GraphQL" },
+    { "path": "shared/AutoVenda.Domain" },
+    { "path": "shared/AutoVenda.Infrastructure" },
+    { "path": "docs" }
+  ],
+  "settings": {}
+}

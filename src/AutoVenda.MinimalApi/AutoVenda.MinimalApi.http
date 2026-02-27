@@ -1,0 +1,6 @@
+@AutoVenda.MinimalApi_HostAddress = http://localhost:5089
+
+GET {{AutoVenda.MinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

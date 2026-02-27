@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  postgres:
+    environment:
+      POSTGRES_PASSWORD: autovenda_local
+  minio:
+    environment:
+      MINIO_ROOT_PASSWORD: minio_local

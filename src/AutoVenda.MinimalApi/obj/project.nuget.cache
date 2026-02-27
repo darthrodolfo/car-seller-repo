@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iuONdINmR3Y=",
+  "success": true,
+  "projectFilePath": "D:\\DevStuff\\autovenda-backends-dotnet\\autovenda-backends-dotnet\\src\\AutoVenda.MinimalApi\\AutoVenda.MinimalApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\darth\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\darth\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
